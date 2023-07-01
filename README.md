@@ -2,7 +2,8 @@
 
 # 餐廳清單擴充 CRUD 功能
 第一份CRUD的功能實作專案
-![image](https://github.com/dingbum73/mypractice/assets/124600894/c055ecd3-d742-4e5e-9797-404c76f1a1d9)
+![image](https://github.com/dingbum73/resturant-list-CRUD/assets/124600894/e6dbc76c-4b2b-46f0-ab29-05cd357743af)
+
 
 
 ## 介紹
@@ -33,3 +34,8 @@
 - Font-awesome 5.15.4
 - MongoDB
 - mongoose: 7.3.1
+- method-override 3.0.0
+
+## 優化項目
+- 路由模組
+- mongoose
